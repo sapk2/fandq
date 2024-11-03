@@ -1,0 +1,39 @@
+.container{
+  background-color: rgb(149, 255, 0);
+  max-width: 600px;
+  padding: 10px 20px 20px;
+}
+h2{
+  text-align: center;
+}
+.faq-section{
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+
+}
+.accordion-item{
+  margin-bottom: 10px;
+
+}
+.accordion-question{
+  width: 100%;
+  padding: 10px;
+  background-color: aqua;
+  color: brown;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  font-size: x-large;
+}
+.accordion-answer{
+  padding: 10px;
+  background-color: cadetblue;
+  border-left: 4px solid burlywood;
+}
+button{
+  background-color: rgb(211 216 253);
+  color: 2px solid rgb(0, 255, 30);
+  border-radius: 5px;
+  font-size: small;
+}
